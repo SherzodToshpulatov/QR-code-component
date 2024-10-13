@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Final look for the QR code component coding challenge](./screenshot.png)
 ### Links
 
-- Live Site URL: [Add live site URL here](https://qr-code-component-mauve-two.vercel.app/)
+- Live Site URL: [Live site here](https://qr-code-component-mauve-two.vercel.app/)
 
 ### Built with
 
