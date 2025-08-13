@@ -15,4 +15,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML
 - CSS 
 
-For testing. Learning Git
+I kinda don't understand
